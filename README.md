@@ -3,7 +3,7 @@
 This project is a simple React application demonstrating routing using `react-router-dom`. It includes multiple pages such as "Home", "About", and "Contact", allowing seamless navigation between them without reloading the page.
 
 ## Live Demo
-Check out the live version of the app here: [React Router Task](https://react-router-task-by-at-netlify.app)
+Check out the live version of the app here: [React Router Task](https://react-router-task-by-at.netlify.app)
 
 ## Project Overview
 This project is built to showcase the basic usage of React Router for single-page applications (SPA). It demonstrates how to set up routing and navigate between different views in a React app.
