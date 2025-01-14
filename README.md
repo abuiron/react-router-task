@@ -6,7 +6,7 @@ This project is a simple React application demonstrating routing using `react-ro
 Check out the live version of the app here: [Learning Hub](https://react-router-task-by-at.netlify.app)
 
 ## Home Page
- ![Home Page]()
+ ![Home Page](https://github.com/abuiron/react-router-task/blob/main/public/front.png?raw=true)
 
 ## Project Overview
 This project is built to showcase the basic usage of React Router for single-page applications (SPA). It demonstrates how to set up routing and navigate between different views in a React app.
