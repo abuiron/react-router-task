@@ -1,4 +1,4 @@
-# React Router Task
+# Learning Hub
 
 This project is a simple React application demonstrating routing using `react-router-dom`. It includes multiple pages such as "Home", "About", and "Contact", allowing seamless navigation between them without reloading the page.
 
